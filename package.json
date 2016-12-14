@@ -1,0 +1,23 @@
+{
+  "name": "merge-media-queries-stylus",
+  "description": "Merge media queries stylus",
+  "version": "1.0.0",
+  "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/daliborgogic/merge-media-queries-stylus.git"
+  },
+  "devDependencies": {
+    "stylus": "0.54.5"
+  },
+  "author": "Dalibor Gogic <mail@daliborgogic.com>",
+  "main": "index.js",
+  "scripts": {
+     "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "dependencies": {
+    "css-mqpacker": "5.0.1",
+    "multi-stage-sourcemap": "0.2.1",
+    "postcss": "5.2.6"
+  }
+}
